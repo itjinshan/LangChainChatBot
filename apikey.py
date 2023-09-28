@@ -1,1 +1,1 @@
-apikey = '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'
+apikey = process.env.OPENAI_API_KEY
